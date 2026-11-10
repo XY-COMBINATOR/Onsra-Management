@@ -16,11 +16,6 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 
-# Build
-dist/
-build/
-.wrangler/
-
 # Scripts (PowerShell scripts not needed for deployment)
 *.ps1
 
