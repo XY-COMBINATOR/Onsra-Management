@@ -1,0 +1,35 @@
+name = "onsra-management"
+main = "src/worker.js"
+compatibility_date = "2026-11-10"
+
+[assets]
+directory = "./"
+not_found_page = "index.html"
+
+[[rules]]
+pattern = "*.svg"
+headers = { "Content-Type" = "image/svg+xml" }
+
+[[rules]]
+pattern = "*.css"
+headers = { "Content-Type" = "text/css" }
+
+[[rules]]
+pattern = "*.js"
+headers = { "Content-Type" = "application/javascript" }
+
+[[rules]]
+pattern = "*.png"
+headers = { "Content-Type" = "image/png" }
+
+[[rules]]
+pattern = "*.jpg"
+headers = { "Content-Type" = "image/jpeg" }
+
+[[rules]]
+pattern = "*.avif"
+headers = { "Content-Type" = "image/avif" }
+
+[[rules]]
+pattern = "*.mp4"
+headers = { "Content-Type" = "video/mp4" }

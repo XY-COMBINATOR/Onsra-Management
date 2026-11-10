@@ -1,0 +1,28 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+.wrangler/
+
+# Scripts (PowerShell scripts not needed for deployment)
+*.ps1
+
+# Original source files
+original.html
