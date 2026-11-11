@@ -1,3 +1,4 @@
-# Cloudflare Pages _redirects for SPA routing
-# Serve index.html for all non-asset routes (SPA fallback)
-/*    /index.html   200
+# Cloudflare Pages Redirects
+/home        /        301
+/index       /        301
+/index.html  /        301
