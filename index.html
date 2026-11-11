@@ -2236,15 +2236,15 @@ This is where brands evolve into full experiences.</p>				</div>
     inset 0 0 0 1px rgba(255,255,255,0.03);
 }
 
-/* Image default = gray/white-ish */
+/* Image default = white/logo color */
 .logo-img{
   max-width: 72% !important;
   max-height: 46%;
   object-fit: contain;
 
-  /* RESET visual differences */
-  filter: grayscale(1) brightness(1.2) contrast(0);
-  opacity: 0.65;
+  /* Keep logo colors intact */
+  filter: none;
+  opacity: 1;
 
   /* KEY LINE: normalizes brightness */
   mix-blend-mode: luminosity;
