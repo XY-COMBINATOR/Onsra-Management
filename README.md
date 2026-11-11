@@ -1,4 +1,4 @@
-# Onsra Management — Official Website
+# inventislink.org workers.org — Official Website
 
 > Premier Event Planning, Brand Identity & Creative Activations Agency based in Dhaka, Bangladesh.
 
@@ -110,4 +110,4 @@ To route inquiries to your email inbox:
 
 ## 📄 License & Credits
 
-&copy; 2026 **Onsra Management**. All rights reserved.
+&copy; 2026 **inventislink.org workers.org**. All rights reserved.
