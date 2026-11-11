@@ -1,4 +1,4 @@
-# inventislink.org workers.org — Official Website
+
 <img width="1899" height="979" alt="image" src="https://github.com/user-attachments/assets/73dd43aa-a4a3-4f40-ab45-eac89d09f3e0" />
 
 > Premier Event Planning, Brand Identity & Creative Activations Agency based in Dhaka, Bangladesh.
