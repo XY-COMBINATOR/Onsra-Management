@@ -5,19 +5,19 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# IDE
+# IDE & Editors
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS
+# Operating System Files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Scripts (PowerShell scripts not needed for deployment)
+# Build & Migration Tools
+tools/
 *.ps1
-
-# Original source files
 original.html
